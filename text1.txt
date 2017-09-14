@@ -1,0 +1,13 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 904C-5CC5
+
+ Directory of C:\Users\T430\Desktop\MyProject
+
+09/14/2017  05:21 AM    <DIR>          .
+09/14/2017  05:21 AM    <DIR>          ..
+09/14/2017  05:21 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,734,459,904 bytes free
+
+
+change 1
